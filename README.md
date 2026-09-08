@@ -19,7 +19,7 @@
 はじめまして。**ホー・ゴック・タオ・ビー (Hồ Ngọc Thảo Vy)** と申します。
 
 現在、**越韓情報通信大学 (VKU)** で情報技術を学んでいる **3年生** です。
-また、日本の企業 **[株式会社Exection](https://www.exection.co.jp/)** の **第3期インターン生** です。
+また、日本の企業 **[株式会社Exection](https://www.exection.co.jp/)** の **三期生 (インターン)** です。
 
 Web開発に情熱を持ち、日々新しい技術を学んでいます。
 どうぞよろしくお願いいたします。🌸
@@ -45,7 +45,7 @@ Web開発に情熱を持ち、日々新しい技術を学んでいます。
 Xin chào! Mình là **Hồ Ngọc Thảo Vy**.
 
 Hiện mình là **sinh viên năm 3 ngành Công nghệ Thông tin** tại **Đại học Công nghệ Thông tin và Truyền thông Việt – Hàn (VKU)**.
-Đồng thời, mình là **Thực tập sinh khóa 3 (第3期)** tại công ty Nhật Bản **[Exection Co., Ltd.](https://www.exection.co.jp/)**.
+Đồng thời, mình là **Thực tập sinh khóa 3 – 三期生 (Sankisei)** tại công ty Nhật Bản **[Exection Co., Ltd.](https://www.exection.co.jp/)**.
 
 Mình đam mê phát triển web và luôn học hỏi công nghệ mới mỗi ngày.
 Rất mong được kết nối với mọi người! 🌸
