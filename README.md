@@ -1,14 +1,14 @@
 <!-- ===== BANNER SÓNG ĐỘNG ĐẦU TRANG ===== -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Ho%20Ngoc%20Thao%20Vy&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF%EF%BC%81%20%C2%B7%20Xin%20chao%EF%BC%81&descAlignY=58&descSize=20" alt="header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=ff9a9e,fecfef,ff6ec7&height=200&section=header&text=Ho%20Ngoc%20Thao%20Vy&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF%EF%BC%81%20%C2%B7%20Xin%20chao%EF%BC%81&descAlignY=58&descSize=20" alt="header"/>
 
 <p align="center">
   <a href="https://github.com/hongocthaovy0710">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=520&lines=Exection+Internship+%7C+3rd+Batch;VKU+Information+Technology+Student;Web+Developer+%F0%9F%92%BB;%E6%97%A5%E6%9C%AC%E8%AA%9E%E3%82%92%E5%8B%89%E5%BC%B7%E4%B8%AD+%F0%9F%87%AF%F0%9F%87%B5" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FF6EC7&center=true&vCenter=true&width=520&lines=Exection+Internship+%7C+3rd+Batch;VKU+Information+Technology+Student;Web+Developer+%F0%9F%92%BB;%E6%97%A5%E6%9C%AC%E8%AA%9E%E3%82%92%E5%8B%89%E5%BC%B7%E4%B8%AD+%F0%9F%87%AF%F0%9F%87%B5" alt="Typing SVG" />
   </a>
 </p>
 
 <!-- Đường kẻ gradient động -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=3" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=ff9a9e,fecfef,ff6ec7&height=3" />
 
 <!-- ============================================= -->
 <!--                日本語 (TIẾNG NHẬT)             -->
@@ -34,7 +34,7 @@ Web開発に情熱を持ち、日々新しい技術を学んでいます。
   <img src="https://skillicons.dev/icons?i=java,html,css,js,react,nodejs,aws,git,github,vscode,mysql,figma&theme=light" alt="Tech Stack" />
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=3" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=ff9a9e,fecfef,ff6ec7&height=3" />
 
 <!-- ============================================= -->
 <!--              TIẾNG VIỆT (ベトナム語)            -->
@@ -60,7 +60,7 @@ Rất mong được kết nối với mọi người! 🌸
   <img src="https://skillicons.dev/icons?i=java,html,css,js,react,nodejs,aws,git,github,vscode,mysql,figma&theme=light" alt="Tech Stack" />
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=3" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=ff9a9e,fecfef,ff6ec7&height=3" />
 
 <!-- ============================================= -->
 <!--                 GITHUB STATS                  -->
@@ -69,17 +69,17 @@ Rất mong được kết nối với mọi người! 🌸
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=hongocthaovy0710&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hongocthaovy0710&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=hongocthaovy0710&show_icons=true&theme=radical&hide_border=true&count_private=true&title_color=ff6ec7&icon_color=ff9a9e" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hongocthaovy0710&layout=compact&theme=radical&hide_border=true&langs_count=8&title_color=ff6ec7" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hongocthaovy0710&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hongocthaovy0710&theme=radical&hide_border=true&stroke=ff6ec7&ring=ff6ec7&fire=ff9a9e&currStreakLabel=ff6ec7" alt="GitHub Streak" />
 </p>
 
 <!-- Bảng thành tích trophy -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hongocthaovy0710&theme=algolia&no-frame=true&no-bg=true&margin-w=4&row=1" alt="Trophy" />
+  <img src="https://github-profile-trophy.vercel.app/?username=hongocthaovy0710&theme=flat&no-frame=true&no-bg=true&margin-w=4&row=1" alt="Trophy" />
 </p>
 
 <!-- Rắn ăn contribution (cần bật GitHub Action - xem hướng dẫn bên dưới) -->
@@ -87,7 +87,7 @@ Rất mong được kết nối với mọi người! 🌸
   <img src="https://raw.githubusercontent.com/hongocthaovy0710/hongocthaovy0710/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=3" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=ff9a9e,fecfef,ff6ec7&height=3" />
 
 <!-- ============================================= -->
 <!--                    LIÊN HỆ                    -->
@@ -107,8 +107,8 @@ Rất mong được kết nối với mọi người! 🌸
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=hongocthaovy0710&label=Profile%20views&color=6c63ff&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=hongocthaovy0710&label=Profile%20views&color=ff6ec7&style=flat" alt="Profile views" />
 </p>
 
 <!-- ===== BANNER SÓNG ĐỘNG CUỐI TRANG ===== -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer&text=%E3%81%82%E3%82%8A%E3%81%8C%E3%81%A8%E3%81%86%EF%BC%81%20%C2%B7%20Cam%20on!&fontSize=20&fontColor=ffffff&animation=twinkling&fontAlignY=65" alt="footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=ff9a9e,fecfef,ff6ec7&height=120&section=footer&text=%E3%81%82%E3%82%8A%E3%81%8C%E3%81%A8%E3%81%86%EF%BC%81%20%C2%B7%20Cam%20on!&fontSize=20&fontColor=ffffff&animation=twinkling&fontAlignY=65" alt="footer"/>
